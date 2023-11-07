@@ -5,7 +5,7 @@ This small project is part of my learning path to become a web developer. At thi
 ## Topics:
 
 - Regular expressions
-- Asyncrunous javascript
+- Asynchronous javascript
 - Data from API
 
 This game is built with pure JS, taking inspiration and ideas from an online tutorial and adding my own functionalities.
